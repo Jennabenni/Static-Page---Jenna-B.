@@ -5,9 +5,9 @@ import React from 'react';
 
 function Header(){
     return(
-        <header>
+        <div>
             <h1>Cinderella</h1>
-        </header>
+        </div>
     );
 }
 export default Header;
